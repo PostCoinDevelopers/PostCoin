@@ -65,5 +65,5 @@ https://www.blockexperts.com/post
 - Yobit: https://yobit.net/en/trade/POST/BTC
 
 ###Resources
-- Froum: http://community.postcoin.pw/index.php
-- Twitte: https://twitter.com/POSTcoinArena
+- Forum: http://community.postcoin.pw/index.php
+- Twitter: https://twitter.com/POSTcoinArena
