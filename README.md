@@ -43,15 +43,14 @@ The main purpose of the information resource Crypto-Compass is acquainting the p
 The purpose of the information and training resources is eliminating this abyss, becoming the connecting bridge between new technologies and the world, outside of the crypto audience. The projects will get profits from the advertising, content placements and other services. A part of the profits will be distributed among the holders of the PostCoin who belongs to the three higher ranks. The transparency and the public control of payments are guaranteed by the blockchain.
 
 ###Specifications
-
-Mining: Pure POS
-Ticker: POST
-Block Time : 60 sec
-Minimum Stake Age: 12 hours
-Maximum Stake Age : 14 days
-Stake Rate: 1% Fixed
-Initial Supply : 30.000.000 POST
-Supply after burning the leftover coins from Free Distribution : ~15.081.003 POST
+- Mining: Pure POS
+- Ticker: POST
+- Block Time : 60 sec
+- Minimum Stake Age: 12 hours
+- Maximum Stake Age : 14 days
+- Stake Rate: 1% Fixed
+- Initial Supply : 30.000.000 POST
+- Supply after burning the leftover coins from Free Distribution : ~15.081.003 POST
 
 ###Distribution
 Distribution start: 16 March 2016
