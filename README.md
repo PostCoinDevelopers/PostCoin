@@ -1,31 +1,70 @@
+#PostCoin - Integration in the Future
 
-# PostCoin - Интеграция в Будущее
+Forming the idea of the development of the PostCoin, we turned to the experiences of successful projects outside the crypto-area, in the real world. For the project to become commercially successful needs a clear plan and resources to implement it in the reality. Unfortunately, most startups and the cryptocurrency poorly represent the realization of their ideas. Unlike the most other startups, we have a specific goal to create a commercially successful project. This approach fully reflects the interests of PostCoin investors.
+To achieve the goal, we have decided to combine new technologies and schemes of creating successful business projects.
+Development of the PostCoin is based on the mutual integration in information projects and business portals. Much attention is paid to supporting the long-term investors. This approach makes the less profitable short-term speculation and more attractive long-term investments.
 
-Формируя идею развития PostCoin мы обратились к опыту успешных проектов за пределами криптосферы - в реальный мир.
-Чтобы проект стал коммерчески успешным, нужен ясный план и ресурсы для его воплощения в реальность. Для достижения цели мы решили объединить новые технологии и схемы создания успешных бизнес-проектов.
-Развитие PostCoin основывается на взаимной интеграции в информационные проекты и бизнес-порталы.
-Большое внимание уделяется поддержке долгосрочных инвесторов. Такой подход делает краткосрочные спекуляции менее выгодными, а долгосрочные инвестиции более привлекательным и перспективным делом.
+###Postcoin giveaways
+All participants PostCoin community can participate in the coins giveaway.
+For these promotions was created fund with 2 000 000 coins, participating in the POS. Mined coins will spent on rewards in daily promotions.
 
-### Бонусная система "Табель о рангах"
-Для поддержки долгосрочных инвесторов в системе PostCoin существует 7 рангов от юнги до адмирала. Ранг держателя зависит от количества монет в кошельке и времени их хранения. Количество монет, раздаваемых в акциях, привязано к рангам. К примеру в акции "100 PostCoin", матрос получит 100 монет и еще 10% за бонус от ранга, в сумме это составит 110 PostCoin.
-Капитан получит 100 монет и еще +200% за бонус от ранга, в сумме это составит 300 PostCoin.
-Держатели трех высших рангов (лейтенант, капитан и адмиралъ) получают часть прибыли от информационных проектов интегрированных с PostCoin
+###Bounty for the performance of simple tasks
+Every week in this topic carried giveaway coins.
+To get the reward you need perform simple tasks (Like, Tweet, help to newbie and so on.) The higher your rank the more coins you will get.
 
-### Бесплатные раздачи PostCoin
-Все ранговые держатели PostCoin могут принимать участие в бесплатных раздачах монет.
-Для проведения этих акций создан "неиссякаемый" фонд поддержки, 2 000 000 монет участвующих в POS. Добытые монеты расходуются на награды в еженедельных акциях.
+###Free Yobit codes
+Every day in this topic you can get free Yobit codes. Promotion is available to all without restriction. In day is published 5 to 10 codes.
 
-### Акции в чате
-Пять дней в неделю в чате форума http://postcoin.pw проводятся бесплатные раздачи монет. В случайное время, в чате задаются вопросы на разные тематики. Участник, быстрее всех давший верный ответ, получает в награду монеты PostCoin. Акция повторяется от 2 до 5 раз в день. Бонусы от рангов учитываются. В акции могут принимать участие безранговые пользователи, но со штрафом -80% от награды. Чтобы попасть в чат, нужно пройти регистрацию на форуме.
+###Weekly poker freeroll from PostCoin
+Every sunday you can participate in a private freeroll. Tournament is open for all.
+Freeroll kicks off at 20:00 MSK 28.08.2016
+Applications are accepted in this topic
 
-### Интеграция в информационные проекты
-Главная цель информационных ресурсов Крипто-Компас познакомить людей с возможностями Крипто-Вселенной. Менее 1% живущих на планете людей знакомы с криптовалютами. Между разработчиками стартапов и простыми людьми образовалась огромная пропасть взаимного непонимания. Цель информационных и обучающих ресурсов устранить эту пропасть, став соединяющим мостом между новыми технологиями и миром за пределами криптоаудитории. Проекты будут получать прибыль от рекламы, размещения контента и других услуг. Часть прибыли будет распределяться между держателями PostCoin трех высших рангов. Прозрачность расчетов и публичный контроль гарантируется за счет блокчейна. В данный момент к запуску готовятся два информационных проекта из пяти запланированных.
+###Faucet for rank holders
+In September will start testing and launch of the weekly faucet for rank holders PostCoin.
+Rank holder will be able to go once a week to the private site and receive coins. The higher rank, the more coins you get.
 
-### Крипто-Песочница
-Цель Крипто-песочницы в наиболее простой и доступной манере познакомить людей с криптовалютой. Для создания крипто-песочницы мы привлекли пользователей PostCoin. Они своими словами "на пальцах" объяснят все новые термины, упростив их понимание.
-Если тема слишком сложна, мы создаем обучающий гайд с пояснением всех действий. К каждой главе прилагается классическое определение и ссылки для более глубокого изучения. В конце темы новичкам предлагаются задания, выполняя которые, они смогут заработать монеты PostCoin.
+###Tournament "À l'abordage!"
+Every month for PostCoin community carried a free tournament "À l'abordage!"
+Tournament is open for all. The tournament is held in playoff mode using a random number generator.
+Rank holders have higher chances of winning. 
 
-### Заметки крипто-трейдера
-Информационный ресурс для желающих улучшить свои навыки в торговле криптовалютами.
-Цель проекта - показать специфику торговли на крипторынках. В силу своей новизны, крипторынки достаточно тонкие и легко поддаются манипуляциям. Многие трейдеры терпят неудачу, потому что используют старые шаблоны, не работающие в новых реалиях.
-Наибольшее внимание в обучении уделяется минимизации рисков и правильной работе с информацией. Для доступа к некоторым материалам сайта необходимо стать держателем монеты PostCoin.
+###The bonus system - "Table of Ranks"
+There are 7 ranks in the PostCoin system to maintain a long-term investors. The rank of the holder depends on the number of coins in the wallet and the time of their storage.
+The number of coins received in promotions are dependent from the rank. For an example, in the promotions "100 PostCoins", the midshipman will receive 100 coins and 50% as a bonus for the rank, in the sum it will be 150 PostCoins. The captain will receive 100 coins and + 200% bonus for the rank, and the sum will be 300 PostCoins.
+Holders of the three highest ranks (Lieutenant, Captain and Admiral) receive a part of the profits from the information projects which has integrated with the PostCoin.
+Details of the bonus system:
+
+###FAQ
+http://community.postcoin.pw/index.php?threads/postcoin-bonus-program-faq.17/
+
+###Integration of information projects
+The main purpose of the information resource Crypto-Compass is acquainting the people with the possibilities of the Crypto-universe. Less than 1% of the people who are living on the planet are familiar with the cryptocurrency. Between the developers, startups and the ordinary people, a vast gulf of a misunderstanding has formed.
+The purpose of the information and training resources is eliminating this abyss, becoming the connecting bridge between new technologies and the world, outside of the crypto audience. The projects will get profits from the advertising, content placements and other services. A part of the profits will be distributed among the holders of the PostCoin who belongs to the three higher ranks. The transparency and the public control of payments are guaranteed by the blockchain.
+
+###Specifications
+
+Mining: Pure POS
+Ticker: POST
+Block Time : 60 sec
+Minimum Stake Age: 12 hours
+Maximum Stake Age : 14 days
+Stake Rate: 1% Fixed
+Initial Supply : 30.000.000 POST
+Supply after burning the leftover coins from Free Distribution : ~15.081.003 POST
+
+###Distribution
+Distribution start: 16 March 2016
+Distribution end : 16 April 2016
+Method: Free distribution - Closed
+
+###Block Explorer
+https://www.blockexperts.com/post
+
+###Exchanges
+Novaexchange - https://novaexchange.com/market/BTC_POST/
+Yobit: https://yobit.net/en/trade/POST/BTC
+
+###Resources
+Froum: http://community.postcoin.pw/index.php
+Twitte: https://twitter.com/POSTcoinArena
