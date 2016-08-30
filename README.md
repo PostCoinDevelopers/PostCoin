@@ -53,9 +53,9 @@ The purpose of the information and training resources is eliminating this abyss,
 - Supply after burning the leftover coins from Free Distribution : ~15.081.003 POST
 
 ###Distribution
-Distribution start: 16 March 2016
-Distribution end : 16 April 2016
-Method: Free distribution - Closed
+- Distribution start: 16 March 2016
+- Distribution end : 16 April 2016
+- Method: Free distribution - Closed
 
 ###Block Explorer
 https://www.blockexperts.com/post
