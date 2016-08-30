@@ -61,9 +61,9 @@ Method: Free distribution - Closed
 https://www.blockexperts.com/post
 
 ###Exchanges
-Novaexchange - https://novaexchange.com/market/BTC_POST/
-Yobit: https://yobit.net/en/trade/POST/BTC
+- Novaexchange - https://novaexchange.com/market/BTC_POST/
+- Yobit: https://yobit.net/en/trade/POST/BTC
 
 ###Resources
-Froum: http://community.postcoin.pw/index.php
-Twitte: https://twitter.com/POSTcoinArena
+- Froum: http://community.postcoin.pw/index.php
+- Twitte: https://twitter.com/POSTcoinArena
